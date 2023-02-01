@@ -1,0 +1,197 @@
+C:\Users\2048883\Documents\Stellar Parking\bin\Debug\Stellar Parking.exe.config
+C:\Users\2048883\Documents\Stellar Parking\bin\Debug\Stellar Parking.exe
+C:\Users\2048883\Documents\Stellar Parking\bin\Debug\Stellar Parking.pdb
+C:\Users\2048883\Documents\Stellar Parking\obj\Debug\Stellar Parking.csproj.AssemblyReference.cache
+C:\Users\2048883\Documents\Stellar Parking\obj\Debug\Stellar Parking.csproj.SuggestedBindingRedirects.cache
+C:\Users\2048883\Documents\Stellar Parking\obj\Debug\Stellar_Parking.AuthenticationForm.resources
+C:\Users\2048883\Documents\Stellar Parking\obj\Debug\Stellar_Parking.Properties.Resources.resources
+C:\Users\2048883\Documents\Stellar Parking\obj\Debug\Stellar Parking.csproj.GenerateResource.cache
+C:\Users\2048883\Documents\Stellar Parking\obj\Debug\Stellar Parking.csproj.CoreCompileInputs.cache
+C:\Users\2048883\Documents\Stellar Parking\obj\Debug\Stellar Parking.exe
+C:\Users\2048883\Documents\Stellar Parking\obj\Debug\Stellar Parking.pdb
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\bin\Debug\Stellar Parking.exe.config
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\bin\Debug\Stellar Parking.exe
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\bin\Debug\Stellar Parking.pdb
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar Parking.csproj.AssemblyReference.cache
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar Parking.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.Properties.Resources.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar Parking.csproj.GenerateResource.cache
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar Parking.csproj.CoreCompileInputs.cache
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar Parking.exe
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar Parking.pdb
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HomePage.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.AuthenticationPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.NearbyPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HistoryPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SettingsPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SignUpPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PrivacyPolicyPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.LanguagesSelectionPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\bin\Debug\fr-CA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.AuthenticationPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\fr-CA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\bin\Debug\af-NA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\bin\Debug\es\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.AuthenticationPage.af-NA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.AuthenticationPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\af-NA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\es\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayementMethodPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.ProfileInformationPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\bin\Debug\ssy\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\bin\Debug\aa\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.AuthenticationPage.ssy.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HistoryPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HistoryPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HomePage.aa.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HomePage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HomePage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.LanguagesSelectionPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.LanguagesSelectionPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.NearbyPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.NearbyPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayementMethodPage.aa.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayementMethodPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayementMethodPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PrivacyPolicyPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PrivacyPolicyPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.ProfileInformationPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.ProfileInformationPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SettingsPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SettingsPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SignUpPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SignUpPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\ssy\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\aa\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\bin\Debug\StellarParkingDatabase.mdf
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\bin\Debug\StellarParkingDatabase_log.ldf
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\bin\Debug\ru-UA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayPage.ru-UA.resources
+C:\Users\maxym\Documents\Application Development\Application Development Fall 2022\Final Project\Stellar Parking\obj\Debug\ru-UA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\bin\Debug\StellarParkingDatabase.mdf
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\bin\Debug\StellarParkingDatabase_log.ldf
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\bin\Debug\Stellar Parking.exe.config
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\bin\Debug\Stellar Parking.exe
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\bin\Debug\Stellar Parking.pdb
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\bin\Debug\af-NA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\bin\Debug\es\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\bin\Debug\fr-CA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\bin\Debug\ssy\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\bin\Debug\aa\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\bin\Debug\ru-UA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar Parking.csproj.AssemblyReference.cache
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar Parking.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.AuthenticationPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HistoryPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HomePage.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.LanguagesSelectionPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.NearbyPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayementMethodPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PrivacyPolicyPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.ProfileInformationPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.Properties.Resources.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SettingsPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SignUpPage.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.AuthenticationPage.af-NA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.AuthenticationPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.AuthenticationPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.AuthenticationPage.ssy.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HistoryPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HistoryPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HomePage.aa.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HomePage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.HomePage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.LanguagesSelectionPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.LanguagesSelectionPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.NearbyPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.NearbyPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayPage.ru-UA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayementMethodPage.aa.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayementMethodPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PayementMethodPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PrivacyPolicyPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.PrivacyPolicyPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.ProfileInformationPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.ProfileInformationPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SettingsPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SettingsPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SignUpPage.es.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar_Parking.SignUpPage.fr-CA.resources
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar Parking.csproj.GenerateResource.cache
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar Parking.csproj.CoreCompileInputs.cache
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\af-NA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\es\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\fr-CA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\ssy\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\aa\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\ru-UA\Stellar Parking.resources.dll
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar Parking.exe
+C:\Users\maxym\Documents\Application Development\Application Development (Desktop)\Final Project\Stellar Parking\obj\Debug\Stellar Parking.pdb
+C:\Users\maxym\Downloads\Parking_Pay_System\bin\Debug\StellarParkingDatabase.mdf
+C:\Users\maxym\Downloads\Parking_Pay_System\bin\Debug\StellarParkingDatabase_log.ldf
+C:\Users\maxym\Downloads\Parking_Pay_System\bin\Debug\Stellar Parking.exe.config
+C:\Users\maxym\Downloads\Parking_Pay_System\bin\Debug\Stellar Parking.exe
+C:\Users\maxym\Downloads\Parking_Pay_System\bin\Debug\Stellar Parking.pdb
+C:\Users\maxym\Downloads\Parking_Pay_System\bin\Debug\af-NA\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\bin\Debug\es\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\bin\Debug\fr-CA\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\bin\Debug\ssy\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\bin\Debug\aa\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\bin\Debug\ru-UA\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar Parking.csproj.AssemblyReference.cache
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar Parking.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.AuthenticationPage.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.HistoryPage.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.HomePage.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.LanguagesSelectionPage.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.NearbyPage.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.PayPage.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.PayementMethodPage.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.PrivacyPolicyPage.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.ProfileInformationPage.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.Properties.Resources.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.SettingsPage.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.SignUpPage.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.AuthenticationPage.af-NA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.AuthenticationPage.es.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.AuthenticationPage.fr-CA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.AuthenticationPage.ssy.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.HistoryPage.es.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.HistoryPage.fr-CA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.HomePage.aa.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.HomePage.es.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.HomePage.fr-CA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.LanguagesSelectionPage.es.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.LanguagesSelectionPage.fr-CA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.NearbyPage.es.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.NearbyPage.fr-CA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.PayPage.es.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.PayPage.fr-CA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.PayPage.ru-UA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.PayementMethodPage.aa.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.PayementMethodPage.es.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.PayementMethodPage.fr-CA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.PrivacyPolicyPage.es.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.PrivacyPolicyPage.fr-CA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.ProfileInformationPage.es.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.ProfileInformationPage.fr-CA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.SettingsPage.es.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.SettingsPage.fr-CA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.SignUpPage.es.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar_Parking.SignUpPage.fr-CA.resources
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar Parking.csproj.GenerateResource.cache
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar Parking.csproj.CoreCompileInputs.cache
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\af-NA\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\es\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\fr-CA\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\ssy\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\aa\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\ru-UA\Stellar Parking.resources.dll
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar Parking.exe
+C:\Users\maxym\Downloads\Parking_Pay_System\obj\Debug\Stellar Parking.pdb
